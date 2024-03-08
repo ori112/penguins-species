@@ -1,1 +1,2 @@
 # penguins-species
+this is a penguins species classification python project based on the csv file used from kaggle - https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data the project was done in google colab to view the project check the "penguins_classification.ipynb" file or just click here: https://github.com/ori112/penguins-species/blob/main/penguins_classification.ipynb
